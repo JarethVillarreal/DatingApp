@@ -38,5 +38,5 @@
             ],
             "problemMatcher": "$msCompile"
         }
-    ]
+    ]//test
 }

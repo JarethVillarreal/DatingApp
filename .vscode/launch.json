@@ -3,7 +3,7 @@
     "configurations": [
         {
             // Use IntelliSense to find out which attributes exist for C# debuggingASasAS
-            // Use hover for the description of the existing attributesasASas
+            // Use hover for the description of the exsdsdisting attributesasASas
             // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
